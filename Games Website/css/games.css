@@ -1,0 +1,23 @@
+a {
+  color: #FFFFFF;
+  font-size: 90px;
+  margin: 30px ;
+  text-decoration: none;
+  border-radius: 11%;
+  border-style: solid;
+  padding: 8px;
+}
+
+.gameLinks {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 15px;
+  color: #FFFFFF;
+}
+
+body {
+  background: linear-gradient(90deg, #DD0099, #33FF77);
+}
